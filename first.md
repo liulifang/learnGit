@@ -1,4 +1,4 @@
 #GIT is free software.
-##GIT is a versionn control system
+##GIT is a distributed versionn control system
 
 #sjdfkldsjfkljsdlfsdk
